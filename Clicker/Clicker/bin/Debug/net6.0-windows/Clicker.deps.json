@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clicker/1.0.0": {
+        "runtime": {
+          "Clicker.dll": {}
+        },
+        "resources": {
+          "en-GB/Clicker.resources.dll": {
+            "locale": "en-GB"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clicker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
